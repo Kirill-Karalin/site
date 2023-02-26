@@ -56,9 +56,12 @@
 }
 
 .glav{
-  margin-left: 450px;
+  /* margin-left: 450px; */
+  padding: 2.5em;
+   font-size: 1.2em;
   background-color: rgba(0, 0, 0, 0.3);
   border:2px solid lightslategrey;
+
   border-radius: 1cm;
   display: flex;
   align-items: center;
