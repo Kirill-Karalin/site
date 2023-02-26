@@ -60,6 +60,10 @@
   background-color: rgba(0, 0, 0, 0.3);
   border:2px solid lightslategrey;
   border-radius: 1cm;
-  
-  
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 } 
+.center{
+   text-align: center;
+}
