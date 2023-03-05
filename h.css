@@ -1,5 +1,7 @@
 .a {color: black;
    background-color: rgb(195, 192, 192);
+   width: 18cm;
+   margin-top: 2cm;
    }
 .b {color: black;
    background-color: grey;
@@ -53,7 +55,7 @@
 .all{
    justify-content: space-between;
    display: flex;
-   background-color: rgb(205, 239, 171);
+   
 }
 
 .glav{
@@ -63,4 +65,8 @@
   background-color: rgba(0, 0, 0, 0.3);
   border:2px solid lightslategrey;
   border-radius: 1cm;  
+}
+
+.hhh{
+   margin-top: 2cm;
 }
